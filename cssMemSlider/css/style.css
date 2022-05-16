@@ -1,0 +1,12 @@
+[class*="__container"] {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20% 0;
+    background: rgba(0, 0, 225, 0.8);
+}
+
+h1 {
+    font-size: 5rem;
+    color: yellow;
+    text-align: center;
+}
